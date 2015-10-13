@@ -1,10 +1,10 @@
-# Gisicom - Github Simple Commit Application
+# Totaccess
 
-> This application provides access to your github repositories, allows to browse files, edit single file and commit it. That's all!!
+> This application provides access to your code from your phonegap mobile app or website
 
 ## Install the Application
 
-    Android: 
+    In a Website: 
 
 ## Contribute
 
