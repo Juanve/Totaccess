@@ -2,7 +2,7 @@
 
 > This application provides access to your code from your phonegap mobile app or website
 
-## Install the Application
+## Embed the Application
 
     In a Website: 
 
